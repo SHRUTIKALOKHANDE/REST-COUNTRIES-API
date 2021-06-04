@@ -39,6 +39,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+##Deploy Status Badge
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/368d4bb6-aa8e-4f2c-959b-c72d356034f9/deploy-status)](https://app.netlify.com/sites/flamboyant-mayer-63124c/deploys)
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
