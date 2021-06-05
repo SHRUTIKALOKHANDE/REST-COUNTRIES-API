@@ -1,22 +1,22 @@
 ## Frontend Mentor Challenge
-##REST-COUNTRIES-API-COLOR-THEME-SWITCHER
+## REST-COUNTRIES-API-COLOR-THEME-SWITCHER
 
 Here are the some screenshots
 
 # Homepage / Landingpage
   Desktop View
-
+  ![Screenshot_2021-06-05 REST-COUNTRIES-API(4)](https://user-images.githubusercontent.com/30066889/120879104-bc730c00-c5de-11eb-8872-069781a0ed94.png)
 
   Mobile View
-
+  ![Screenshot_2021-06-05 REST-COUNTRIES-API(2)](https://user-images.githubusercontent.com/30066889/120879138-ea585080-c5de-11eb-96f7-4dd949abbf66.png)
 
 # '/country' page
 
   Desktop View
-
+  ![Screenshot_2021-06-05 REST-COUNTRIES-API(1)](https://user-images.githubusercontent.com/30066889/120879152-fb08c680-c5de-11eb-82cd-aa48e85e8e1c.png)
 
   Mobile View
-
+  ![Screenshot_2021-06-05 REST-COUNTRIES-API(3)](https://user-images.githubusercontent.com/30066889/120879161-0d830000-c5df-11eb-8757-ec226d3d1999.png)
 
 ## Features
 
