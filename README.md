@@ -1,3 +1,36 @@
+## Frontend Mentor Challenge
+##REST-COUNTRIES-API-COLOR-THEME-SWITCHER
+
+Here are the some screenshots
+
+# Homepage / Landingpage
+  Desktop View
+
+
+  Mobile View
+
+
+# '/country' page
+
+  Desktop View
+
+
+  Mobile View
+
+
+## Features
+
+-See all countries from the API on the homepage
+-Search for a country using an input field
+-Filter countries by region
+-Click on a country to see more detailed information on a separate page
+-Click through to the border countries on the detail page
+
+## Possible Improvements
+
+-Toggle the color scheme between light and dark mode
+-Add all countries with pagination
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
