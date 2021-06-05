@@ -278,7 +278,7 @@ code {
   display: flex;
   flex-direction: column;
   width: 100%;
-  margin-top: 70px;
+  margin-top: 50px;
   padding: 5em 1em;
 }
   .country-details-container.country-details-content{
@@ -311,4 +311,13 @@ code {
   width: 100%;
   padding:1em 1em;
   }
+}
+@media screen and (max-width:480px){
+  .country-details-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 70px;
+    padding: 5em 1em;
+  } 
 }
