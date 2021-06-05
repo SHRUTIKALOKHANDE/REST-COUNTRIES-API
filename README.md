@@ -3,7 +3,7 @@
 
 Here are the some screenshots
 
-# Homepage / Landingpage
+## Homepage / Landingpage
   #Desktop View
   
   ![Screenshot_2021-06-05 REST-COUNTRIES-API(4)](https://user-images.githubusercontent.com/30066889/120879104-bc730c00-c5de-11eb-8872-069781a0ed94.png)
@@ -12,7 +12,7 @@ Here are the some screenshots
   
   ![Screenshot_2021-06-05 REST-COUNTRIES-API(2)](https://user-images.githubusercontent.com/30066889/120879138-ea585080-c5de-11eb-96f7-4dd949abbf66.png)
 
-# '/country' page
+## '/country' page
   #Desktop View
   
   ![Screenshot_2021-06-05 REST-COUNTRIES-API(1)](https://user-images.githubusercontent.com/30066889/120879152-fb08c680-c5de-11eb-82cd-aa48e85e8e1c.png)
