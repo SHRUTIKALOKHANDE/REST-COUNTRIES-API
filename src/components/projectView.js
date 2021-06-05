@@ -26,37 +26,7 @@ class ProjectView extends React.Component {
 			loading: false,
 			filteredCountries: [],
 		};
-		//this.arr = [[{ name: 'hi' }], []];
-	}
-
-	// getCountryDetails = async () => {
-	// 	try {
-	// 		let response = await Promise.all(
-	// 			this.countries.map((country) =>
-	// 				fetch(`https://restcountries.eu/rest/v2/name/${country}?fullText=true`).then((data) => data.json())
-	// 			)
-	// 		);
-	// 		if (response) {
-	// 			return response;
-	// 		}
-	// 	} catch (e) {
-	// 		return e;
-	// 	}
-	// };
-
-	// getAllData = async () => {
-	// 	let performAPICall = await this.getCountryDetails();
-	// 	for (let i = 0; i < performAPICall.length; i++) {
-	// 		this.DATA.push(performAPICall[i][0]);
-	// 	}
-	// 	this.setState(
-	// 		{
-	// 			loading: true,
-	// 			filteredCountries: this.DATA,
-	// 		},
-	// 		//console.log(this.state.loading, this.state.filteredCountries)
-	// 	);
-	// };
+	};
 
 	async componentDidMount() {
 		console.log('componentdidmount calling');
@@ -69,7 +39,7 @@ class ProjectView extends React.Component {
 			//console.log(this.state.loading, this.state.filteredCountries)
 		);
 		console.log('componentdidmount completed');
-	}
+	};
 
 	handleMenuClick = (e) => {
 		message.info('Click on menu item.');
@@ -137,8 +107,8 @@ class ProjectView extends React.Component {
 					<div className="search-container mobile">
 						<div className="searchdiv">
 						<Input
-							// style={{ width: '38%' }}
 							className="searchbar"
+							size="large"
 							placeholder="Search for a country..."
 							prefix={<SearchOutlined />}
 							// onSearch={this.search}
