@@ -1,6 +1,6 @@
 import React from 'react';
 //import { withRouter } from 'react-router';
-//import './Country.css';
+import './Country.css';
 import {Card} from 'antd';
 
 class Country extends React.Component{

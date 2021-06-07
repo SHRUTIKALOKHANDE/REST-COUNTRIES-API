@@ -1,0 +1,113 @@
+.ant-btn.ant-btn-primary{
+    background:white;
+    color:black;
+    border:whitesmoke;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+  }
+  .country-details-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    margin-top: 70px;
+    padding: 2em 3em;
+  }
+  
+  .border-country-btn{
+    width: 480px;
+    height: auto;
+  }
+  .border-btn{
+    background-color:white;
+    color:black;
+    margin:0.5em; 
+  }
+  .country-details-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-top: 1em;
+  }
+  .content-img{
+    height: 400px;
+    width: 480px;
+    padding: 4em 0em;
+  }
+  .content-img img{
+    object-fit: cover;
+    object-position: top;
+    display: block;
+    height: 100%;
+    width: 100%;
+  }
+  .text-desc{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding:1em 1em;
+  }
+  .textLeft{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .textRight{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 3.5em;
+  }
+  
+  @media screen and (max-width:1024px){
+    .country-details-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 50px;
+    padding: 5em 1em;
+  }
+    .country-details-container.country-details-content{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 1em;
+    }
+    .content-img{
+    height: 400px;
+    width: 100%;
+    padding: 4em 0em;
+  }
+  .border-country-btn{
+    width:250px;
+    height: auto;
+  }
+  .border-btn{
+    background-color:white;
+    color:black;
+    margin:0.5em; 
+  }
+    .text-desc{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    padding:1em 1em;
+    }
+  }
+  @media screen and (max-width:480px){
+    .country-details-container{
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      margin-top: 70px;
+      padding: 5em 1em;
+    } 
+  }
+  

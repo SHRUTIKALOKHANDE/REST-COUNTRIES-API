@@ -1,9 +1,10 @@
 import React from 'react';
+import { withRouter } from 'react-router';
 import { Input, Menu, Dropdown, Button, message, Row, Col } from 'antd';
 import { SearchOutlined, DownOutlined } from '@ant-design/icons';
+import './ProjectView.css';
 import Header from './Header';
 import Country from './Country';
-import { withRouter } from 'react-router';
 import { getAllData } from '../utils/apiCallHandler.js';
 
 class ProjectView extends React.Component {

@@ -2,6 +2,7 @@ import { Button } from 'antd';
 import { ArrowLeftOutlined } from '@ant-design/icons';
 import React from 'react';
 import { withRouter } from 'react-router';
+import './CountryDetails.css';
 import Header from './Header';
 
 class CountryDetails extends React.Component {

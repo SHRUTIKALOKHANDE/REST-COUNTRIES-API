@@ -1,4 +1,5 @@
 import React  from 'react';
+import './Header.css';
 import halfmoon from '../assets/halfmoon.svg';
 
 export default class Header extends React.Component {
